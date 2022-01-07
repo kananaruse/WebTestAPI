@@ -69,7 +69,7 @@ ptyprocess==0.5.1
 PyAudio==0.2.11
 pycparser==2.18
 Pygments==2.2.0
-pyo==0.8.7
+pyo==1.0.3
 pyparsing==2.2.0
 pyportmidi==0.0.7
 pysas==0.3.3
